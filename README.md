@@ -30,4 +30,4 @@ Skills and configurations from this repository are automatically available to re
 
 ## Contributing
 
-Feel free to add new skills, custom agents, or plugins to this repository to share them across the organization
+Feel free to add new skills, custom agents, or plugins to this repository to share them across the organization.
