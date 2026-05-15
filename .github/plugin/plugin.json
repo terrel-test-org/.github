@@ -1,0 +1,19 @@
+{
+    "name": "training-documentation-writer",
+    "description": "A skill that focuses on writing clear, concise, and user-friendly documentation for software products. This skill is essential for ensuring that users can easily understand and utilize the software, leading to a better user experience and increased adoption.",
+    "version": "1.0.0",
+    "author": {"name": "Terrel Blackston"}, 
+    
+    "repository": "https://github.com/terrel-test-org/.github",
+    "keywords": ["documentation", "writing", "training", "software", "user experience"],
+    "agents": [
+        "/.github/agents"
+    ],
+    "skills":[
+        "/.github/skills/training-documentation-writer",
+        "/.github/skills/training-documentation-writer"
+    ]
+    
+}
+
+
